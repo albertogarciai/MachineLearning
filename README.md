@@ -8,7 +8,7 @@ Este repositorio contiene dos mini-proyectos de aprendizaje supervisado aplicand
 
 ---
 
-## 🔹 Ejercicio 1: Regresión – Video Game Sales
+## Ejercicio 1: Regresión – Video Game Sales
 
 - **Dataset:** [Video Game Sales](https://www.kaggle.com/datasets/anandshaw2001/video-game-sales)
 - **Archivo:** `regresion_videojuegos.py`
@@ -24,7 +24,7 @@ Este repositorio contiene dos mini-proyectos de aprendizaje supervisado aplicand
 
 ---
 
-## 🔹 Ejercicio 2: Clasificación – Enfermedad Cardíaca
+## Ejercicio 2: Clasificación – Enfermedad Cardíaca
 
 - **Dataset:** [Heart Disease - UCI](https://www.kaggle.com/datasets/redwankarimsony/heart-disease-data)
 - **Archivo:** `clasificacion_corazon.py`
