@@ -49,9 +49,5 @@ Este repositorio contiene dos mini-proyectos de aprendizaje supervisado aplicand
 ```bash
 pip install pandas matplotlib seaborn scikit-learn
 
-## 🚀 Cómo ejecutar:
 python regresion_videojuegos.py
 python clasificacion_corazon.py
-
-## 🧠 Conclusión:
-Ambos scripts siguen una estructura clara y simple, con buenas prácticas de codificación y visualización. Los resultados muestran la capacidad de aplicar algoritmos de regresión y clasificación con evaluación cuantitativa y cualitativa.
